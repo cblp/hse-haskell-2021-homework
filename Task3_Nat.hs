@@ -1,7 +1,7 @@
 module Task3_Nat where
 
 -- import           Test.Tasty.HUnit
--- import           Test.Tasty.QuickCheck
+-- import           Test.QuickCheck
 
 data Nat = Z | S Nat
 

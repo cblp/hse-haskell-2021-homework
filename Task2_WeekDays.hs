@@ -1,7 +1,7 @@
 module Task2_WeekDays where
 
 -- import           Test.Tasty.HUnit
-import           Test.Tasty.QuickCheck
+import           Test.QuickCheck
 
 data WeekDay
   deriving Show

@@ -1,6 +1,6 @@
 module Task8_Fix where
 
--- import           Test.Tasty.QuickCheck
+-- import           Test.QuickCheck
 
 iterateElement :: a -> [a]
 iterateElement = undefined
