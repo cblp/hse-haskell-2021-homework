@@ -1,4 +1,4 @@
-module Unit1.Task1_WeekDays where
+module Task2_WeekDays where
 
 -- import           Test.Tasty.HUnit
 import           Test.Tasty.QuickCheck
