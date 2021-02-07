@@ -1,8 +1,7 @@
 module Unit1.Task1_WeekDays where
 
--- import           Test.Tasty.HUnit      (Assertion, (@?=))
-import           Test.Tasty.QuickCheck (Arbitrary (arbitrary), elements)
--- import           Test.Tasty.QuickCheck (Property, (===))
+-- import           Test.Tasty.HUnit
+import           Test.Tasty.QuickCheck
 
 data WeekDay
   deriving Show
