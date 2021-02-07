@@ -8,5 +8,5 @@ test-suite homework
   default-extensions: EmptyDataDeriving LambdaCase TemplateHaskell
   default-language: Haskell2010
   main-is: Main.hs
-  other-modules: Task2_WeekDays
+  other-modules: Task2_WeekDays Task3_Nat
   type: exitcode-stdio-1.0
