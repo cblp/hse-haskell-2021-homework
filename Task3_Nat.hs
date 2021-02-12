@@ -5,6 +5,9 @@ module Task3_Nat where
 
 data Nat = Z | S Nat
 
+-- instance Arbitrary Nat where
+--   arbitrary = intToNat . getNonNegative <$> arbitrary
+
 intToNat :: Integer -> Nat
 intToNat = undefined
 
